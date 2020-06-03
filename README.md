@@ -8,7 +8,6 @@ After a donation from Kyle and a Steam sale, we now have all 6 packs
 
 <https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack>
 
-
 ## Extension
 
 Meet has a Grid view by default, but I'd still recommend this Google Meet Grid View Extension for Chrome/Edge Beta
@@ -32,4 +31,3 @@ Meet Code: mgv-ozmi-yjf
 <https://meet.google.com/iha-poaj-wfj>
 
 Meet Code: iha-poaj-wfj
-
