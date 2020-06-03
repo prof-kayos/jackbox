@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# jackbox
 
-You can use the [editor on GitHub](https://github.com/prof-kayos/jackbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Hangouts Meet (enterprise version of Hangouts, did two separate so we can hear each other)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'd recommend changing the video quality to 720p in the bottom right settings menu when you start each video feed as the defaults have been changed to 360p recently.
 
-### Markdown
+After a donation from Kyle and a Steam sale, we now have all 6 packs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Extension
 
-- Bulleted
-- List
+Meet has a Grid view by default, but I'd still recommend this Google Meet Grid View Extension for Chrome/Edge Beta
 
-1. Numbered
-2. List
+Shows everyone in chat in Grid view by Default
 
-**Bold** and _Italic_ and `Code` text
+<https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip>
 
-[Link](url) and ![Image](src)
-```
+## VIDEO CHAT
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> MIC AND CAMERA ON
 
-### Jekyll Themes
+<https://meet.google.com/mgv-ozmi-yjf>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prof-kayos/jackbox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Meet Code: mgv-ozmi-yjf
 
-### Support or Contact
+## GAME FEED
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> MUTE YOUR MIC AND CAMERA
+
+<https://meet.google.com/iha-poaj-wfj>
+
+Meet Code: iha-poaj-wfj
