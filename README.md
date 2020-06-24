@@ -16,18 +16,18 @@ Shows everyone in chat in Grid view by Default
 
 <https://chrome.google.com/webstore/detail/google-meet-grid-view/kklailfgofogmmdlhgmjgenehkjoioip>
 
-## Video Chat
-
-> MIC AND CAMERA ON
-
-<https://meet.google.com/mgv-ozmi-yjf>
-
-Meet Code: mgv-ozmi-yjf
-
 ## Game Feed
 
 > MUTE YOUR MIC AND CAMERA
 
-<https://meet.google.com/iha-poaj-wfj>
+<meet.google.com/mbf-bcsb-kmx>
 
-Meet Code: iha-poaj-wfj
+Meet Code: mbf-bcsb-kmx
+
+## Video Chat
+
+> MIC AND CAMERA ON
+
+<meet.google.com/gve-vgan-sgd>
+
+Meet Code: gve-vgan-sgd
